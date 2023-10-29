@@ -1,0 +1,6 @@
+/home/emc/projects/learn-opengl/CMakeFiles/main.dir
+/home/emc/projects/learn-opengl/CMakeFiles/edit_cache.dir
+/home/emc/projects/learn-opengl/CMakeFiles/rebuild_cache.dir
+/home/emc/projects/learn-opengl/glad/CMakeFiles/glad.dir
+/home/emc/projects/learn-opengl/glad/CMakeFiles/edit_cache.dir
+/home/emc/projects/learn-opengl/glad/CMakeFiles/rebuild_cache.dir
